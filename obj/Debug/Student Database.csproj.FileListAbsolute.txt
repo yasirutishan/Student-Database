@@ -1,0 +1,10 @@
+C:\Users\Yasiru Tishan\Desktop\Student Database\bin\Debug\Student Database.exe.config
+C:\Users\Yasiru Tishan\Desktop\Student Database\bin\Debug\Student Database.exe
+C:\Users\Yasiru Tishan\Desktop\Student Database\bin\Debug\Student Database.pdb
+C:\Users\Yasiru Tishan\Desktop\Student Database\obj\Debug\Student Database.csproj.AssemblyReference.cache
+C:\Users\Yasiru Tishan\Desktop\Student Database\obj\Debug\Student_Database.Form1.resources
+C:\Users\Yasiru Tishan\Desktop\Student Database\obj\Debug\Student_Database.Properties.Resources.resources
+C:\Users\Yasiru Tishan\Desktop\Student Database\obj\Debug\Student Database.csproj.GenerateResource.cache
+C:\Users\Yasiru Tishan\Desktop\Student Database\obj\Debug\Student Database.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\Student Database\obj\Debug\Student Database.exe
+C:\Users\Yasiru Tishan\Desktop\Student Database\obj\Debug\Student Database.pdb
